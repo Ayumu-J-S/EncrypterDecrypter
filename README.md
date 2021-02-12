@@ -1,7 +1,6 @@
 # EncrypterDecrypter
 A java program that either encrypts or decrypts a file with a key
 
----
 
 This program allows the user to encrypt the contents of a textfile based on an
 easily remembered phrase with which the user is familiar, and which that user
