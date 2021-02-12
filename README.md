@@ -26,6 +26,6 @@ along with the message, "Program now terminating.", and then terminate.
 5. Error: Key phrase must not be shorter than 10 characters.
 
 <br />
-**Test directory has shell script that allows you to test this program and sample test files**
+__Test directory has shell script that allows you to test this program and sample test files.__
 <br />                                                                
 -Java 8 or above is required to run the jar file included
