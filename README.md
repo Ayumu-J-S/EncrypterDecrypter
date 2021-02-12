@@ -23,9 +23,9 @@ along with the message, "Program now terminating.", and then terminate.
 2. Error: Bad first parameter.
 3. Error: Cannot open file.ext for input.
 4. Error: Cannot open file.ext for output.
-5. Error: Key phrase must not be shorter than 10 characters.
+5. Error: Key phrase must not be shorter than 10 **characters**.
 
 <br />
-__Test directory has shell script that allows you to test this program and sample test files.__
+Test directory has shell script that allows you to test this program and sample test files.
 <br />                                                                
 -Java 8 or above is required to run the jar file included
