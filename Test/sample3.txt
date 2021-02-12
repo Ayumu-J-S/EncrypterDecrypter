@@ -1,0 +1,6 @@
+This is a test file of text.
+It is not long.
+This line has exactly 94 characters, which is longer that most lines in a text file should be.
+
+It has a blank line (above), and
+this is the last line of text.

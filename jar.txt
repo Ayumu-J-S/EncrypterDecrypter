@@ -1,0 +1,7 @@
+cvfe EncrypterDecrypter.jar EncrypterDecrypter EncrypterDecrypter.class 
+EncrypterDecrypter.txt
+-C ./Utils OpeningScreen.class
+-C ./Utils TextItems.class
+-C ./Utils Utils.class
+
+
